@@ -1,0 +1,15 @@
+{
+  "name": "mongodb-atlas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Oskyyy/mongodb-atlas.git",
+  "author": "Oskyyy <oskarwro@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.8.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
