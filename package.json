@@ -6,7 +6,7 @@
   "author": "Oskyyy <oskarwro@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "^6.0.7"
+    "mongoose": "^6.0.12"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
